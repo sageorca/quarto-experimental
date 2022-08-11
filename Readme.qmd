@@ -1,0 +1,27 @@
+---
+title: "Experimente mit Quarto und Publikationen"
+format: html
+editor: visual
+---
+
+## Ziel
+
+Dieses Repo ist dafür gedacht, Experimente mit Quarto und dem Veröffentlichen von damit erstellten Inhalten durchzuführen. Zu Quarto siehe <https://quarto.org>.
+
+## Arbeitsschritte
+
+Mindestens die folgenden Aufgaben sollen in diesem Repo ausprobiert werden:
+
+-   HTML-Dokument generieren und via GitHub Pages im Repo veröffentlichen
+
+-   revealJS-Präsentation erstellen und im HTML-Dokument verlinken
+
+-   PDF-Dokument mit Template erstellen und im HTML-Dokument verlinken
+
+Falls diese Arbeitsschritte erfolgreich waren, soll ein einfaches shiny-App auf [shinyapps.io](https://www.shinyapps.io/) deployed werden und in ein HTML-Dokument eingebettet werden.
+
+```{r}
+#| eval: false
+#| echo: false
+2 * 2
+```
